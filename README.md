@@ -1,58 +1,43 @@
-# 📰 InfoSnap
 
-InfoSnap is a sleek and modern news application that delivers the latest stories from around the world in real-time. Whether you're interested in politics, sports, technology, entertainment, or global affairs — InfoSnap keeps you informed, updated, and ahead of the curve.
+# 📰 NovaNews
 
-Designed with a clean interface and lightning-fast performance, InfoSnap is built for the modern generation — no clutter, no noise, just news that matters.
+**NovaNews** is a sleek, modern news app that delivers the latest stories from around the world in real-time. Whether you're into politics, sports, technology, entertainment, or global affairs — NovaNews keeps you informed, updated, and ahead of the curve.
+
+With a clean interface and lightning-fast performance, NovaNews is built for the modern generation — no clutter, no bias, just news that matters.
 
 ---
 
 ## ✨ Features
 
-- 🗞️ Top headlines from trusted global sources  
-- 🔍 Search and filter news by category or keyword  
-- 🌐 Multi-category coverage: Politics, Tech, Sports, Health, Business, Entertainment & more  
-- 💡 Smart summaries for quick reading *(optional)*  
-- 💾 Save articles to read later  
-- 🌙 Dark mode for comfortable reading  
-- ⚡ Fast, lightweight, and smooth performance  
-- 📱 Cross-platform support (Android & iOS)
+- 🗞️ **Top Headlines** – Stay updated with the latest breaking news from trusted sources  
+- 🔍 **Search & Filter** – Find stories that matter to you by category or keyword  
+- 🌐 **Multi-Category Coverage** – Politics, Tech, Sports, Health, Business, Entertainment & more  
+- 💡 **Smart Summaries** – Quickly scan stories with short, AI-powered summaries *(optional)*  
+- 💾 **Save for Later** – Bookmark articles to read offline anytime  
+- 🌙 **Dark Mode** – Read comfortably day or night  
+- ⚡ **Fast & Lightweight** – Optimized for speed and smooth performance
 
 ---
 
-## 🚀 Built for You
+## 🚀 Built For You
 
-Whether you're a news enthusiast or a casual reader, InfoSnap is designed to deliver information that is fast, factual, and fresh. Say goodbye to noisy apps and hello to clean, curated content.
-
----
-
-## 📲 Ideal For
-
-- Students and professionals who need daily updates  
-- Travelers who want quick global headlines  
-- Anyone who prefers fast news without the fluff  
+Whether you're a news junkie or a casual reader, NovaNews is designed to give you the information you need — fast, factual, and fresh. Say goodbye to noisy apps and hello to clean, curated content.
 
 ---
 
-## 💡 Why InfoSnap?
+## 📲 Ideal For:
 
-“Info” represents information, and “Snap” represents speed.  
-InfoSnap brings you important news in a quick, simple, and smart way — so you stay informed without wasting time.
-
----
-
-## 🛠 Tech Stack
-
-- React Native  
-- Expo  
-- News API  
-- JavaScript (ES6+)
+- Students & professionals who need daily updates  
+- Travelers who want quick, global headlines  
+- Anyone who wants **fast news without the fluff**
 
 ---
 
-## 📦 Installation
+## 💡 Why Nova?
 
-```bash
-git clone https://github.com/your-username/InfoSnap.git
-cd InfoSnap
-npm install
-npx expo start
+"Nova" means *new* — and that’s what this app brings:  
+A **new way to consume news**, built for speed, simplicity, and smart reading.
+
+---
+
+🔔 **Download NovaNews today** and stay one step ahead — always.
